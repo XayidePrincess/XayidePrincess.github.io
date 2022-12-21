@@ -1,0 +1,15 @@
+body {
+    background-color: #030303;
+    color: #ddd
+}
+.headercontainer {
+    display: flex;
+    padding: 2rem;
+}
+.herotext {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-left: 3rem;
+}
