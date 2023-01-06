@@ -1,6 +1,6 @@
 body {
-    background-color: #030303;
-    color: #ddd
+    background-color: #ddd;
+    color: rgb(143, 78, 78)
 }
 .headercontainer {
     display: flex;
@@ -13,3 +13,49 @@ body {
   justify-content: center;
   margin-left: 3rem;
 }
+body {
+font-family: Arial, sans-serif;
+margin: 0;
+padding: 0;
+}
+
+header {
+background-image: url('https://picsum.photos/1080');
+background-size: cover;
+height: 300px;
+display: flex;
+align-items: center;
+justify-content: center;
+color: white;
+text-align: center;
+}
+
+h1 {
+margin: 0;
+}
+
+section {
+margin: 20px;
+}
+
+h2 {
+margin: 10px 0;
+}
+
+h3 {
+margin: 5px 0;
+}
+
+li {
+margin: 5px 0;
+}
+
+a {
+color: blue;
+text-decoration: none;
+}
+
+a:hover {
+text-decoration: underline;
+}
+
